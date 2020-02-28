@@ -1,0 +1,10 @@
+printCat
+resultsSub 
+printAverage
+resultsCat
+DAtabase
+resultsClass
+Post
+ManageResults
+editresults
+viewResults
